@@ -13,6 +13,22 @@ Duck Marines try to recreate the magic of the original game's multiplayer on the
 
 Duck Marines will feature entirely new assets (sprites, music etc.) and gameplay changes that we find appropriate, while still staying true to the original.
 
+## How to start a project?
+
+Source:
+
+* Clone the repository
+* Optional: Compress the game with ZIP and rename the extension to love.
+* If you have made the optional point, launch the game with the command "love <game.love">
+* If not, go to the game directory and run <love $PWD>
+
+Release:
+
+* Download the game
+* Run from the graphical file manager
+* If you don't have one, run with "love <libreduckmarines.love">
+
+Original project website:
 [http://tangramgames.dk/games/duckmarines/](http://tangramgames.dk/games/duckmarines/)
 
 ![Screenshot](http://tangramgames.dk/games/duckmarines/images/teaser.png "Duck Marines screenshot")
