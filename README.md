@@ -4,7 +4,7 @@ Duck Marines
 The Libre version of "Duck Marines" created by IntinteDAO aims to adapt the game to FSF / GNU requirements and promote the game in FLOSS environments. I wanted to thank Tangram Games for creating this great production and many others.
 
 Music: Original music from Duck Marines is licensed as CC BY-NC-ND 4.0
-Swapped to tracks in Open Surge under license: BY-SA 4.0, BY-SA 3.0, CC0
+Swapped to tracks in Open Surge under license: CC-BY-SA 4.0, CC-BY-SA 3.0, CC0
 
 Duck Marines (working title) is a cross-platform free software remake of Sonic Team's Chu ChuRocket for the Sega Dreamcast.
 

@@ -9,17 +9,18 @@ See http://creativecommons.org/licenses/by-sa/4.0/ for more info.
 Some background music are copyright (c) 2021 Colin Beard, Victor Seven and licensed under a
 Creative Commons Attribution 3.0 Unported license.
 See http://creativecommons.org/licenses/by/3.0/ for more info.
+Colin Beard - boss.ogg, gimacian.ogg
+Victor Seven - sunshine.org
 
 Some background music are copyright (c) 2021 Johan Brodd and licensed under a
 Creative Commons Attribution-ShareAlike 3.0 Unported license.
 See http://creativecommons.org/licenses/by-sa/3.0/ for more info.
+Johan Brodd - menu.ogg, template.ogg, winning_plus.ogg
 
 Some background music are copyright (c) 2021 Cynicmusic and licensed under a
 Creative Commons CC0 1.0 Universal license.
 See http://creativecommons.org/publicdomain/zero/1.0/ for more info.
-
-You can read the specific licenses of music files at this link:
-https://raw.githubusercontent.com/alemart/opensurge/master/src/misc/copyright_data.csv
+Cynicmusic - waterworks.ogg
 
 ## Source code ##
 
